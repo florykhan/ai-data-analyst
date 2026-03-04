@@ -1,3 +1,5 @@
+AWS, SQL, TypeScript, Java
+
 AI DataLab
 AI-Powered Data Exploration, Machine Learning, and Conversational Analytics Platform
 
